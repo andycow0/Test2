@@ -1,0 +1,37 @@
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JIATEST)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=JIATEST)(CID=(PROGRAM=C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.exe)(HOST=HFQ7)(USER=stor))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 22-10月-2015 16:24:59
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:連線被拒
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JIATEST4)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=JIATEST4)(CID=(PROGRAM=C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.exe)(HOST=HFQ7)(USER=stor))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 22-10月-2015 16:25:38
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 連線失敗, 因為目標主機或物件不存在
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 連線失敗, 因為目標主機或物件不存在
+    nt secondary err code: 1001
+    nt OS err code: 0

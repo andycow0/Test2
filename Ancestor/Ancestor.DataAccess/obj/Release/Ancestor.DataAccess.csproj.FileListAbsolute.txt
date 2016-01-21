@@ -1,0 +1,8 @@
+D:\CSharp\Base\Ancestor\Ancestor.DataAccess\bin\Release\Ancestor.DataAccess.dll
+D:\CSharp\Base\Ancestor\Ancestor.DataAccess\bin\Release\Ancestor.DataAccess.pdb
+D:\CSharp\Base\Ancestor\Ancestor.DataAccess\bin\Release\Ancestor.Core.dll
+D:\CSharp\Base\Ancestor\Ancestor.DataAccess\bin\Release\Oracle.DataAccess.dll
+D:\CSharp\Base\Ancestor\Ancestor.DataAccess\bin\Release\Ancestor.Core.pdb
+D:\CSharp\Base\Ancestor\Ancestor.DataAccess\obj\Release\Ancestor.DataAccess.csprojResolveAssemblyReference.cache
+D:\CSharp\Base\Ancestor\Ancestor.DataAccess\obj\Release\Ancestor.DataAccess.dll
+D:\CSharp\Base\Ancestor\Ancestor.DataAccess\obj\Release\Ancestor.DataAccess.pdb

@@ -1,0 +1,5 @@
+D:\CSharp\Base\Ancestor\Ancestor.Core\bin\Release\Ancestor.Core.dll
+D:\CSharp\Base\Ancestor\Ancestor.Core\bin\Release\Ancestor.Core.pdb
+D:\CSharp\Base\Ancestor\Ancestor.Core\obj\Release\Ancestor.Core.dll
+D:\CSharp\Base\Ancestor\Ancestor.Core\obj\Release\Ancestor.Core.pdb
+D:\CSharp\Base\Ancestor\Ancestor.Core\obj\Release\Ancestor.Core.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\CSharp\Base\Ancestor\AncestorUnitTestProject\bin\x86\Debug\AncestorUnitTestProject.dll
+D:\CSharp\Base\Ancestor\AncestorUnitTestProject\bin\x86\Debug\AncestorUnitTestProject.pdb
+D:\CSharp\Base\Ancestor\AncestorUnitTestProject\bin\x86\Debug\Ancestor.Core.dll
+D:\CSharp\Base\Ancestor\AncestorUnitTestProject\bin\x86\Debug\Ancestor.DataAccess.dll
+D:\CSharp\Base\Ancestor\AncestorUnitTestProject\bin\x86\Debug\Ancestor.Core.pdb
+D:\CSharp\Base\Ancestor\AncestorUnitTestProject\bin\x86\Debug\Ancestor.DataAccess.pdb
+D:\CSharp\Base\Ancestor\AncestorUnitTestProject\obj\x86\Debug\AncestorUnitTestProject.csprojResolveAssemblyReference.cache
+D:\CSharp\Base\Ancestor\AncestorUnitTestProject\obj\x86\Debug\AncestorUnitTestProject.dll
+D:\CSharp\Base\Ancestor\AncestorUnitTestProject\obj\x86\Debug\AncestorUnitTestProject.pdb
+D:\CSharp\Base\Ancestor\AncestorUnitTestProject\bin\x86\Debug\AncestorUnitTestProject.dll.config
+D:\CSharp\Base\Ancestor\AncestorUnitTestProject\bin\x86\Debug\System.Data.SqlServerCe.Entity.dll
+D:\CSharp\Base\Ancestor\AncestorUnitTestProject\bin\x86\Debug\zh-CHT\System.Data.SqlServerCe.Entity.resources.dll
+D:\CSharp\Base\Ancestor\AncestorUnitTestProject\bin\x86\Debug\ROPRPAINVISIT.sdf
+D:\CSharp\Base\Ancestor\AncestorUnitTestProject\obj\x86\Debug\AncestorUnitTestProject.Properties.Resources.resources
+D:\CSharp\Base\Ancestor\AncestorUnitTestProject\obj\x86\Debug\AncestorUnitTestProject.csproj.GenerateResource.Cache
+D:\CSharp\Base\Ancestor\AncestorUnitTestProject\bin\x86\Debug\data.csv
