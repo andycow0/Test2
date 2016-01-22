@@ -1,5 +1,0 @@
-D:\CSharp\Base\Ancestor\Ancestor.Core\bin\Debug\Ancestor.Core.dll
-D:\CSharp\Base\Ancestor\Ancestor.Core\bin\Debug\Ancestor.Core.pdb
-D:\CSharp\Base\Ancestor\Ancestor.Core\obj\Debug\Ancestor.Core.csprojResolveAssemblyReference.cache
-D:\CSharp\Base\Ancestor\Ancestor.Core\obj\Debug\Ancestor.Core.dll
-D:\CSharp\Base\Ancestor\Ancestor.Core\obj\Debug\Ancestor.Core.pdb
